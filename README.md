@@ -10,4 +10,6 @@ Teslanın Web Sitesinin Klonunu yaptım
 
 
 2.Model 3
-![Uploading Model  3.png…]()
+![Model  3](https://github.com/nzo2004/Tesla-Web-Clone/assets/111644119/3e2a00aa-be21-49a2-be75-373cff12ca38)
+
+3.Model S
