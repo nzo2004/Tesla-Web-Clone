@@ -10,4 +10,4 @@ Teslanın Web Sitesinin Klonunu yaptım
 
 
 2.Model 3
-(file:///C:/Users/fblin/OneDrive/Resimler/Tesla%20Project/Model%20%203.png)
+![Uploading Model  3.png…]()
